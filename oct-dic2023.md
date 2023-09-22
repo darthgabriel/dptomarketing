@@ -11,7 +11,7 @@ No obstante se han generado herramientas de tendencias para soportar esta debili
 - Ads de Alcance de bajo presupuesto.
 - Menciones en cuentas de alto trafico.
 
-En conclusión, como Dpto de Marketing sugerimos a la Gerencia para el mes de Octubre 2023 apropiarse de una de estas herramientas para mejorar el posicionamiento de las cuentas, ya que los últimos meses del año y tomando en cuenta nuestra ubicación geográfica tienden a ser muy regionalista y ocuparse en tradiciones de la region.
+Como Dpto de Marketing sugerimos a la Gerencia para el ultimo trimestre del año 2023 apropiarse de una de estas herramientas para mejorar el posicionamiento de las cuentas, ya que los últimos meses del año y tomando en cuenta nuestra ubicación geográfica tienden a ser muy regionalista y ocuparse en tradiciones de la region.
 
 Presentamos la siguiente estrategia
 
