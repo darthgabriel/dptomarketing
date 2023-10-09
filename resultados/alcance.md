@@ -1,6 +1,7 @@
 
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 0 | 0 | 0 | 0 | 0 |
 | 7 | @yantaimotorsmcbo | [POST](https://www.instagram.com/p/Cx_NB1AuQHC/) | 06-10-2023 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
 | 6 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/CyEHG0QLOUV/) | 06-10-2023 | 5$ | 3 | 13.357 | 10.356 | 210 | 78 | 63 |
 | 5 | @daimotorsmcbo | [POST](https://www.instagram.com/p/CyD4X-6IqMP/) | 06-10-2023 | 5$ | 3 | 8.140 | 5.869 | 129 | 75 | 29 |
