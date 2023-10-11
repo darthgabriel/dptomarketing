@@ -1,8 +1,38 @@
 ## TITULO DE LA CAMPAÑA: Scanner Hyundai: La clave del mantenimiento eficiente
 
 ## OBJETIVO: REALZAR LA PRESENCIA DEL SERVICIO AUTOMOTRIZ HYUNDAI EN LA LOCALIDAD
-
+ 
 ### DURACIÓN: 3 MESES
+
+#### TODO LIST
+
+- [X] Stickers
+- [X] Banner
+- [X] Post de Interracion Camapaña
+- [ ] Ads de Interaccion Camapaña 100$
+- [ ] Post Avance 1
+- [ ] Post Avance 2
+- [ ] Post del dia de la Parada
+- [ ] Fleyers Parada
+- [ ] Cupones de Descuento para la parada
+- [ ] Musica dia de la parada
+- [ ] Toldo dia de la parada
+- [ ] Modelos Parada
+- [ ] Preparar al Personal para la parada
+- [ ] Hablar con OilAutoParts para el dia de la parada
+- [ ] Refrigerio Parada
+- [ ] Post Avance 3
+- [ ] Post Avance 4
+- [ ] Post Avance 5
+- [ ] Post Avance 6
+- [ ] Post Avance 7
+- [ ] Post Avance 8
+- [ ] Post Avance 9
+- [ ] Post Avance 10
+- [ ] Post Ultima Semana Diciembre/11/2023
+
+
+
 
 
 
