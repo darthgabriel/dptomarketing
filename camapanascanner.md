@@ -9,9 +9,9 @@
 - [X] Stickers
 - [X] Banner
 - [X] Post de Interracion Camapaña
-- [ ] Ads de Interaccion Camapaña 100$
+- [X] Ads de Interaccion Camapaña 100$
 - [ ] App de valor agregado al sticker
-- [ ] Post Avance 1
+- [X] Post Avance 1
 - [ ] Post Avance 2
 - [ ] Post del dia de la Parada
 - [ ] Fleyers Parada

@@ -1,6 +1,7 @@
 
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11[^a] | @yantaimotors | [POST](https://www.instagram.com/p/CyWwCMDoZdR/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
 | 10[^a] | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/CyWP5y8sHIp/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
 | 9[^a] | @daimotorsmcbo | [POST](https://www.instagram.com/p/CyWOc13Oi9c/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
 | 8[^a] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 7.065 | 4.243 | 59 | 29 | 14 |
