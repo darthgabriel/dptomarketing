@@ -1,10 +1,11 @@
-
+### RESULTADOS DE ADS
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11[^a] | @yantaimotors | [POST](https://www.instagram.com/p/CyWwCMDoZdR/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
-| 10[^a] | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/CyWP5y8sHIp/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
-| 9[^a] | @daimotorsmcbo | [POST](https://www.instagram.com/p/CyWOc13Oi9c/) | 13-10-2023 | 5$ | 4 | 0 | 0 | 0 | 0 | 0 |
-| 8[^a] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 7.065 | 4.243 | 59 | 29 | 14 |
+| 8[^3] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 10.346 | 6.213 | 121 | 40 | 28 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| 11 | @yantaimotors | [POST](https://www.instagram.com/p/CyWwCMDoZdR/) | 13-10-2023 | 5$ | 4 | 8.945 | 5.879 | 145 | 69 | 23 |
+| 10 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/CyWP5y8sHIp/) | 13-10-2023 | 5$ | 4 | 7.474 | 5.080 | 123 | 73 | 23 |
+| 9 | @daimotorsmcbo | [POST](https://www.instagram.com/p/CyWOc13Oi9c/) | 13-10-2023 | 5$ | 4 | 6.258 | 4.754 | 53 | 21 | 5 |
 | 7 | @yantaimotorsmcbo | [POST](https://www.instagram.com/p/Cx_NB1AuQHC/) | 06-10-2023 | 5$ | 3 | 10.961 | 7.687 | 157 | 50 | 31 |
 | 6 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/CyEHG0QLOUV/) | 06-10-2023 | 5$ | 3 | 13.357 | 10.356 | 210 | 78 | 56 |
 | 5 | @daimotorsmcbo | [POST](https://www.instagram.com/p/CyD4X-6IqMP/) | 06-10-2023 | 5$ | 3 | 8.140 | 5.869 | 129 | 75 | 29 |
@@ -14,7 +15,7 @@
 | 1 | @yantaimotorsmcbo | [REEL](https://www.instagram.com/p/CxvO6ipOqQR/) | 29-09-2023 | 5$ | 5 | 6.787 | 5.765 | 232 | 67 | S/I[^2] |
 | 0 | @daimotorsmcbo | [POST](https://www.instagram.com/p/Cxf7gVgO8tD/) | 22-09-2023 | 3$ | 3 | 3.614 | 2.845 | 51 | 28 | 8 |
 
-[^a]: ADS EN CIRCULACION
+[^3]: ADS INTERACCION DE PROMOCION
 [^1]: ESTADISTICAS CON ERROR POR PARTE DE IG
 [^2]: SIN INFORMACION O NO APLICA
 
