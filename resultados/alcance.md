@@ -3,6 +3,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | P[^3] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 53.374 | 47.612 | 229 | 89 | 40 |
 |  |  |  | TOTAL | 100$/100$ |  |  |  |  |  |  |
+| 6 | @yantaimotors | [REEL](https://www.instagram.com/p/CzHskNpO6IA) | 03-11-2023 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/CzJ9Pm_RSIR) | 03-11-2023 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 4 | @daimotorsmcbo | [POST](https://www.instagram.com/p/CzJ9ZSTOiQp/) | 03-11-2023 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
 | 3 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/Cy3tq0ZR00M) | 27-10-2023 | 5$ | 3 | 112.506 | 53.110 | 5 | 44 | 1 |
 | 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/Cy0sNxMuutH/) | 27-10-2023 | 5$ | 3 | 63.714 | 58.891 | 4 | 38 | 2 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/Cy1cmk6OcQy) | 27-10-2023 | 5$ | 3 | 75.760 | 31.321 | 4 | 21 | 2 |
