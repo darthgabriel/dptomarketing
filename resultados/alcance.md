@@ -1,8 +1,16 @@
-### RESULTADOS DE ADS
+### RESULTADOS DE PROMO SEPTIEMBRE 2023 - DICIEMBRE 2023
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| P[^3] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 251.411 | 81.291 | 231 | 154 | 41 |
+| P[^3] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 404.386 | 94.008 | 231 | 169 | 41 |
 |  |  |  | TOTAL | 100$/100$ |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |
+
+[^3]: ADS INTERACCION DE PROMOCION 26.687
+
+
+### OCT 2023 - NOV 2023
+| # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @yantaimotors | [POST](https://www.instagram.com/p/CzuV4-OOQq2/) | 17-11-2023 | 5$ | 3 | 10.375 | 6.533 | 440 | 77 | 73 |
 | 11 | @daimotorsmcbo | [POST](https://www.instagram.com/p/CzwV4JkOvHk/) | 17-11-2023 | 5$ | 3 | 7.470 | 4.924 | 146 | 37 | 23 |
 | 10 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/Czwa-xfRInE/) | 17-11-2023 | 5$ | 3 | 8.398 | 5.866 | 144 | 39 | 24 |
@@ -16,6 +24,11 @@
 | 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/Cy0sNxMuutH/) | 27-10-2023 | 5$ | 3 | 63.714 | 58.891 | 4 | 38 | 2 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/Cy1cmk6OcQy) | 27-10-2023 | 5$ | 3 | 75.760 | 31.321 | 4 | 21 | 2 |
 |  |  |  | TOTAL | 60$/60$ |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |
+
+### SEP 2023 - OCT 2023
+| # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/CygKtnNuhq0/) | 20-10-2023 | 5$ | 3 | 7.337 | 5.201 | 119 | 41 | 39 |
 | 11 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/Cyn1fkTu5K5/) | 20-10-2023 | 5$ | 3 | 9.267 | 5.990 | 131 | 68 | 30 |
 | 10 | @yantaimotors | [POST](https://www.instagram.com/p/CyWwCMDoZdR/) | 13-10-2023 | 5$ | 4 | 8.945 | 5.879 | 145 | 69 | 23 |
@@ -29,10 +42,11 @@
 | 2 | @yantaimotorsmcbo | [REEL](https://www.instagram.com/p/CxxwlYDOU70/) | 29-09-2023 | 5$ | 5 | 4.537 | 3.308 | 56 | 45 |38 |
 | 1 | @yantaimotorsmcbo | [REEL](https://www.instagram.com/p/CxvO6ipOqQR/) | 29-09-2023 | 5$ | 5 | 6.787 | 5.765 | 232 | 67 | 38 |
 |  |  |  | TOTAL | 60$/60$ |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  |  |
+
+### PILOTO
+| # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0 | @daimotorsmcbo | [POST](https://www.instagram.com/p/Cxf7gVgO8tD/) | 22-09-2023 | 3$ | 3 | 3.614 | 2.845 | 51 | 28 | 8 |
 |  |  |  |  |  |  |  |  |  |  |  |
-
-[^3]: ADS INTERACCION DE PROMOCION 26.687
-[^1]: ESTADISTICAS CON ERROR POR PARTE DE IG
-[^2]: SIN INFORMACION O NO APLICA
 
