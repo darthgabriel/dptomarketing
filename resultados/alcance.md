@@ -1,11 +1,14 @@
 ### DIC 2023
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0mbH9SR-cm/) | 08-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
-| 1 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0Uyd43RlaV/) | 01-12-2023 | 5$ | 3 | 9.321  | 7.149  | 126 | 132 | 24 |
-| 1 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C0mb66suo-R/) | 08-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
-| 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0UcVNMOYaS/) | 01-12-2023 | 5$ | 3 | 7.100  | 5.282  | 86 | 54 | 14 |
-| 1 | @yantaimotors | [POST](https://www.instagram.com/p/C0clnqFueAB) | 08-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
+| 9 | @yantaimotors | [REEL](https://www.instagram.com/p/C0xCerquIs0) | 08-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
+| 8 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0zk4UJOZVk) | 18-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
+| 7 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C038qAhuhLW) | 18-12-2023 | 5$ | 3 | 0  | 0  | 0 | 0 | 0 |
+| 6 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0mbH9SR-cm/) | 08-12-2023 | 5$ | 3 | 6.268  | 4.902  | 103 | 124 | 22 |
+| 5 | @yantaimotors | [POST](https://www.instagram.com/p/C0clnqFueAB) | 08-12-2023 | 5$ | 3 | 7.331  | 4.913  | 111 | 44 | 13 |
+| 4 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C0mb66suo-R/) | 08-12-2023 | 5$ | 3 | 4.572  | 3.014  | 101 | 39 | 13 |
+| 3 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0Uyd43RlaV/) | 01-12-2023 | 5$ | 3 | 9.321  | 7.149  | 126 | 132 | 24 |
+| 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0UcVNMOYaS/) | 01-12-2023 | 5$ | 3 | 7.100  | 5.282  | 86 | 54 | 14 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/C0SLCqEOiVK) | 01-12-2023 | 5$ | 3 | 8.648  | 5.517  | 127 | 34 | 14 |
 |  |  |  | TOTAL | 0$/60$ |  |  |  |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |
