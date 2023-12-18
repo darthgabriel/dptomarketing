@@ -10,7 +10,7 @@
 | 3 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0Uyd43RlaV/) | 01-12-2023 | 5$ | 3 | 9.321  | 7.149  | 126 | 132 | 24 |
 | 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0UcVNMOYaS/) | 01-12-2023 | 5$ | 3 | 7.100  | 5.282  | 86 | 54 | 14 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/C0SLCqEOiVK) | 01-12-2023 | 5$ | 3 | 8.648  | 5.517  | 127 | 34 | 14 |
-|  |  |  | TOTAL | 0$/60$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 45$/60$ |  |  |  |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### RESULTADOS DE PROMO SEPTIEMBRE 2023 - DICIEMBRE 2023
