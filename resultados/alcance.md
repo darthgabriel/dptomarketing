@@ -1,6 +1,8 @@
 ### DIC 2023
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11 | @yantaimotors | [POST](https://www.instagram.com/p/C1mhw3DuWGs/) | 05-01-2024 | 7.5$ | 3 | 14.385 | 9.801 | 373 | 82 | 70 |
+| 10 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C1uBe7-uTgy/) | 05-01-2024 | 7.5$ | 3 | 16.550 | 11.249 | 170 | 31 | 10 |
 | 9 | @yantaimotors | [REEL](https://www.instagram.com/p/C0xCerquIs0) | 18-12-2023 | 5$ | 3 | 10.667 | 7.820 | 170 | 139 | 60 |
 | 8 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0zk4UJOZVk) | 18-12-2023 | 5$ | 3 | 6.331  | 4.795  | 52 | 16 | 12 |
 | 7 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C038qAhuhLW) | 18-12-2023 | 5$ | 3 | 7.331  | 5.124  | 116 | 35 | 28 |
@@ -10,7 +12,7 @@
 | 3 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0Uyd43RlaV/) | 01-12-2023 | 5$ | 3 | 9.321  | 7.149  | 126 | 132 | 24 |
 | 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0UcVNMOYaS/) | 01-12-2023 | 5$ | 3 | 7.100  | 5.282  | 86 | 54 | 14 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/C0SLCqEOiVK) | 01-12-2023 | 5$ | 3 | 8.648  | 5.517  | 127 | 34 | 14 |
-|  |  |  | TOTAL | 45$/60$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 605$/60$ |  |  |  |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### RESULTADOS DE PROMO SEPTIEMBRE 2023 - DICIEMBRE 2023
