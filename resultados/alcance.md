@@ -1,3 +1,15 @@
+### ENE 2024
+| # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | @yantaimotors | [POST](https://www.instagram.com/p/C2BCTqhu1SR/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2AhHizMOPo/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 4 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 3 | @yantaimotors | [POST](https://www.instagram.com/p/C17slgUuv0v/) | 12-01-2024 | 5$ | 3 | 11.916 | 8.791 | 425 | 124 | 66 |
+| 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2AhHizMOPo/) | 12-01-2024 | 5$ | 3 | 10.560 | 7.662 | 119 | 71 | 18 |
+| 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 12-01-2024 | 5$ | 3 | 6.645 | 4.806 | 105 | 39 | 25 |
+|  |  |  | TOTAL | 30$/60$ |  |  |  |  |  |  |
+
+
 ### DIC 2023
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
