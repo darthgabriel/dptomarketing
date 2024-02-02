@@ -1,13 +1,19 @@
 ### ENE 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6 | @yantaimotors | [POST](https://www.instagram.com/p/C2BCTqhu1SR/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
-| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2AhHizMOPo/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
-| 4 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 19-01-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 12 | @daimotorsmcbo | [REEL]() | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 11 | @kyotomotorsmcbo | [REEL]() | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 10 | @yantaimotors | [REEL](https://www.instagram.com/p/C2z3mpGOm2i/) | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 9 | @yantaimotors | [REEL](https://www.instagram.com/p/C2fRd1wuB0t/) | 26-01-2024 | 5$ | 3 | 7.802 | 6.433 | 318 | 123 | 119 |
+| 8 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C2kMDcFsFN4/) | 26-01-2024 | 5$ | 3 |7.666 | 5.523 | 134 | 45 | 44 |
+| 7 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C2kGXDcOHF7/) | 26-01-2024 | 5$ | 3 | 6.024 | 4.869 | 66 | 80 | 10 |
+| 6 | @yantaimotors | [POST](https://www.instagram.com/p/C2BCTqhu1SR/) | 19-01-2024 | 5$ | 3 | 7.657 | 5.316 | 161 | 59 | 17 |
+| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2M9LshMo2p/) | 19-01-2024 | 5$ | 3 | 7.038 | 4.902 | 173 | 28 | 47 |
+| 4 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 19-01-2024 | 5$ | 3 | 6.673 | 4.451 | 151 | 45 | 22 |
 | 3 | @yantaimotors | [POST](https://www.instagram.com/p/C17slgUuv0v/) | 12-01-2024 | 5$ | 3 | 11.916 | 8.791 | 425 | 124 | 66 |
 | 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2AhHizMOPo/) | 12-01-2024 | 5$ | 3 | 10.560 | 7.662 | 119 | 71 | 18 |
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 12-01-2024 | 5$ | 3 | 6.645 | 4.806 | 105 | 39 | 25 |
-|  |  |  | TOTAL | 30$/60$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 45$/60$ |  |  |  |  |  |  |
 
 
 ### DIC 2023
