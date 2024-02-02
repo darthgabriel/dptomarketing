@@ -13,7 +13,7 @@
 | 3 | @yantaimotors | [POST](https://www.instagram.com/p/C17slgUuv0v/) | 12-01-2024 | 5$ | 3 | 11.916 | 8.791 | 425 | 124 | 66 |
 | 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C2AhHizMOPo/) | 12-01-2024 | 5$ | 3 | 10.560 | 7.662 | 119 | 71 | 18 |
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 12-01-2024 | 5$ | 3 | 6.645 | 4.806 | 105 | 39 | 25 |
-|  |  |  | TOTAL | 45$/60$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 60$/60$ |  |  |  |  |  |  |
 
 
 ### DIC 2023
