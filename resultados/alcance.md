@@ -1,9 +1,9 @@
 ### ENE 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12 | @daimotorsmcbo | [REEL]() | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
-| 11 | @kyotomotorsmcbo | [REEL]() | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
-| 10 | @yantaimotors | [REEL](https://www.instagram.com/p/C2z3mpGOm2i/) | 02-02-2024 | 5$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 12 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C22bOnfIV6d/) | 02-02-2024 | 5$ | 3 | 5.350 | 3.601 | 93 | 31 | 21 |
+| 11 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C223JCLx6fi/) | 02-02-2024 | 5$ | 3 | 5.220 | 3.776 | 64 | 18 | 16 |
+| 10 | @yantaimotors | [REEL](https://www.instagram.com/p/C2z3mpGOm2i/) | 02-02-2024 | 5$ | 3 | 7.384 | 5.828 | 186 | 363 | 60 |
 | 9 | @yantaimotors | [REEL](https://www.instagram.com/p/C2fRd1wuB0t/) | 26-01-2024 | 5$ | 3 | 7.802 | 6.433 | 318 | 123 | 119 |
 | 8 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C2kMDcFsFN4/) | 26-01-2024 | 5$ | 3 |7.666 | 5.523 | 134 | 45 | 44 |
 | 7 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C2kGXDcOHF7/) | 26-01-2024 | 5$ | 3 | 6.024 | 4.869 | 66 | 80 | 10 |
