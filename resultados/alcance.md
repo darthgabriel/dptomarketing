@@ -1,10 +1,16 @@
 ### FEB 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C3sPrGIOzGC/) | 23-02-2024 | 6.66$ | 4 | 11.155 | 6.553 | 154 | 25 | 12 |
+| 8 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C3IPCglMUDG/) | 23-02-2024 | 6.66$ | 4 | 12.911 | 7.280 | 216 | 53 | 14 |
+| 7 | @yantaimotors | [REEL](https://www.instagram.com/p/C3p2VBMOmJl/) | 23-02-2024 | 6.66$ | 4 | 0 | 0 | 0 | 0 | 0 |
+| 6 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C3ann5LoDeY/) | 16-02-2024 | 6.66$ | 4 | 5.730 | 3.607 | 90 | 26 | 24 |
+| 5 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C3ahVQkM3SJ/) | 16-02-2024 | 6.66$ | 4 | 13.223 | 8.253 | 86 | 21 | 10 |
+| 4 | @yantaimotors | [POST](https://www.instagram.com/p/C3SieQGu5V6/) | 16-02-2024 | 6.66$ | 4 | 18.288 | 11.914 | 441 | 81 | 34 |
 | 3 | @yantaimotors | [POST](https://www.instagram.com/p/C3DDfGoOYS4/) | 09-02-2024 | 6.66$ | 4 | 7.073 | 7.015 | 141 | 27 | 9 |
 | 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C3IPCglMUDG/) | 09-02-2024 | 6.66$ | 4 | 8.828 | 6.719 | 92 | 20 | 4 |
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C3ILXE6ulPu/) | 09-02-2024 | 6.66$ | 4 | 12.141 | 9.613 | 63 | 25 | 1 |
-|  |  |  | TOTAL | 19.88$/80$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 59.94$/80$ |  |  |  |  |  |  |
 
 ### ENE 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
@@ -38,7 +44,7 @@
 | 3 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C0Uyd43RlaV/) | 01-12-2023 | 5$ | 3 | 9.321  | 7.149  | 126 | 132 | 24 |
 | 2 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C0UcVNMOYaS/) | 01-12-2023 | 5$ | 3 | 7.100  | 5.282  | 86 | 54 | 14 |
 | 1 | @yantaimotors | [POST](https://www.instagram.com/p/C0SLCqEOiVK) | 01-12-2023 | 5$ | 3 | 8.648  | 5.517  | 127 | 34 | 14 |
-|  |  |  | TOTAL | 605$/60$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 60$/60$ |  |  |  |  |  |  |
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### RESULTADOS DE PROMO SEPTIEMBRE 2023 - DICIEMBRE 2023
