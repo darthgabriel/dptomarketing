@@ -1,6 +1,9 @@
 ### FEB 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C30avZEuxY9/) | 01-03-2024 | 6.66$ | 4 | 0 | 0 | 0 | 0 | 0 |
+| 11 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C30DDTVuFrc/) | 01-03-2024 | 6.66$ | 4 | 0 | 0 | 0 | 0 | 0 |
+| 10 | @yantaimotors | [REEL](https://www.instagram.com/p/C38iLyTyuHc/) | 01-03-2024 | 6.66$ | 4 | 0 | 0 | 0 | 0 | 0 |
 | 9 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C3sPrGIOzGC/) | 23-02-2024 | 6.66$ | 4 | 11.155 | 6.553 | 154 | 25 | 12 |
 | 8 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C3IPCglMUDG/) | 23-02-2024 | 6.66$ | 4 | 12.911 | 7.280 | 216 | 53 | 14 |
 | 7 | @yantaimotors | [REEL](https://www.instagram.com/p/C3p2VBMOmJl/) | 23-02-2024 | 6.66$ | 4 | 13.730 | 8.741 | 293 | 151 | 40 |
@@ -10,7 +13,7 @@
 | 3 | @yantaimotors | [POST](https://www.instagram.com/p/C3DDfGoOYS4/) | 09-02-2024 | 6.66$ | 4 | 7.073 | 7.015 | 141 | 27 | 9 |
 | 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C3IPCglMUDG/) | 09-02-2024 | 6.66$ | 4 | 8.828 | 6.719 | 92 | 20 | 4 |
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C3ILXE6ulPu/) | 09-02-2024 | 6.66$ | 4 | 12.141 | 9.613 | 63 | 25 | 1 |
-|  |  |  | TOTAL | 59.94$/80$ |  |  |  |  |  |  |
+|  |  |  | TOTAL | 79.92$/80$ |  |  |  |  |  |  |
 
 ### ENE 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
