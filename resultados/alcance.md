@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C3sPrGIOzGC/) | 23-02-2024 | 6.66$ | 4 | 11.155 | 6.553 | 154 | 25 | 12 |
 | 8 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C3IPCglMUDG/) | 23-02-2024 | 6.66$ | 4 | 12.911 | 7.280 | 216 | 53 | 14 |
-| 7 | @yantaimotors | [REEL](https://www.instagram.com/p/C3p2VBMOmJl/) | 23-02-2024 | 6.66$ | 4 | 0 | 0 | 0 | 0 | 0 |
+| 7 | @yantaimotors | [REEL](https://www.instagram.com/p/C3p2VBMOmJl/) | 23-02-2024 | 6.66$ | 4 | 13.730 | 8.741 | 293 | 151 | 40 |
 | 6 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C3ann5LoDeY/) | 16-02-2024 | 6.66$ | 4 | 5.730 | 3.607 | 90 | 26 | 24 |
 | 5 | @kyotomotorsmcbo | [REEL](https://www.instagram.com/p/C3ahVQkM3SJ/) | 16-02-2024 | 6.66$ | 4 | 13.223 | 8.253 | 86 | 21 | 10 |
 | 4 | @yantaimotors | [POST](https://www.instagram.com/p/C3SieQGu5V6/) | 16-02-2024 | 6.66$ | 4 | 18.288 | 11.914 | 441 | 81 | 34 |
