@@ -1,3 +1,16 @@
+### JUN 2024
+| # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C71gtCKO1nG/) | 07-06-2024 | 6.47$ | 3 | 14075 | 10019 | 102 | 23 | 12 |
+| 11 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C7pH1xquX8F/) | 07-06-2024 | 6.47$ | 3 | 11840 | 7720 | 284 | 77 | 29 |
+| 10 | @yantaimotors | [REEL](https://www.instagram.com/p/C7xdTKSu_vP/) | 07-06-2024 | 6.47$ | 3 | 10715 | 7251 | 81 | 38 | 4 |
+| 9 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C8KJBoQOYoO) | 14-06-2024 | 6.47$ | 3 | 14277 | 12820 | 85 |11 | 15 |
+| 8 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C77LECQuA-H/) | 14-06-2024 | 6.47$ | 3 | 7344 | 5146 | 102 | 21 | 23 |
+| 7 | @yantaimotors | [POST](https://www.instagram.com/p/C8KRs0yOQ7q) | 14-06-2024 | 6.47$ | 3 | 9.731 | 6334 | 186 | 68 | 18 |
+| 6 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C8hwfQWuiey/) | 22-06-2024 | 6.47$ | 3 | 19806 | 11578 | 119 | 6 | 2 |
+| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C8h1xnZuyIm) | 23-06-2024 | 6.47$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 4 | @yantaimotors | [POST](https://www.instagram.com/p/C8fhQLzS_dz/) | 22-06-2024 | 6.47$ | 3 | 12050 | 8028 | 165 | 52 | 9 |
+
 ### MAY 2024
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,7 +24,7 @@
 | 8 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C7M2YXruKC5/) | 24-05-2024 | 6.47$ | 3 | 10028 | 6236 | 388 | 81 | 48 |
 | 9 | @yantaimotors | [REEL](https://www.instagram.com/p/C7o6RQGuFEd/) | 31-05-2024 | 12.94$ | 4 | 22152 | 15457 | 457 | 296 | 34 |
 | 10 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C7pFCs0uU00) | 31-05-2024 | 6.47$ | 3 | 13703 | 9840 | 541 | 190 | 76 |
-| 11 | @KYOTOmotorsmcbo | [POST](https://www.instagram.com/p/C7pH1xquX8F/) | 31-05-2024 | 6.47$ | 3 | 14487 | 11317 | 231 | 31 | 19 |
+| 11 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C7pH1xquX8F/) | 31-05-2024 | 6.47$ | 3 | 14487 | 11317 | 231 | 31 | 19 |
 | | | | TOTAL | 77.64$/77.64$  |  |  |  |  |  |  |
 
 
