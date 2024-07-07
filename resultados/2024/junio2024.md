@@ -1,20 +1,20 @@
-# Estadisticas MAR 2024 RRSS
+# Estadisticas JUNIO 2024 RRSS
 
 ## PUBLICO
 
 | CUENTA | NUEVOS SEGUIDORES | SEGUIDORES ACTUALES | POSTS REALIZADOS | REEL REALIZADOS | HISTORIAS REALIZADAS | CONTENIDO MES ANTERIOR |
 | --- | --- | --- | --- | --- | --- | --- |
-| @daimotorsmcbo | 202 | 3.970 | 12 | 6 | 65 | 58 |
-| @kyotomotorsmcbo | 229 | 3.713 | 12 | 1 | 48 | 69 |
-| @repuestoskiamcbo | 13 | 147 | 12 | 0 | 32 | 28 |
+| @daimotorsmcbo | 173 | 4599 | 10 | 1 | 51 | 72 |
+| @kyotomotorsmcbo | 236 | 4302 | 9 | 0 | 49 | 70 |
+| @repuestoskiamcbo | 17 | 180 | 5 | 0 | 25 | 38 |
 
 ## ALCANCE E INTERACCION
 
 | CUENTA | IMPRE | ALCANCE | V. PERFIL | INTERACCION | ENGAGEMENT | IMPRE M/A | ALCANCE M/A | V. PERFIL M/A | INTERACCION M/A | ENGAGEMENT M/A |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| @daimotorsmcbo | 66.898 | 24.878 | 1.423 | 417 | 7.39% | 45.893 | 19.332 | 813 | 252 | 18.15% |
-| @kyotomotorsmcbo | 71.295 | 23.224 | 1.582 | 290 | 8.06% | 51.293 | 19.730 | 882 | 169 | 18.77% |
-| @repuestoskiamcbo | 1.235 | 129 | 73 | 24 | 75.19% | 788 | 103 | 71 | 18 | 1.15% |
+| @daimotorsmcbo | 79422 | 32545 | 1558 | 451 | 2.52% | 78873 | 23731 | 2130 | 461 | 10.91% |
+| @kyotomotorsmcbo | 76406 | 25632 | 1744 | 310 | 8.01% | 66118 | 21751 | 1457 | 247 | 7.84% |
+| @repuestoskiamcbo | 1288 | 109 | 119 | 15 | 97% | 1068 | 124 | 102 | 5 | 86% |
 
 * ENGAGEMENT = ( INTERACCIONES + V. PERFIL / ALCANCE ) * 100
 * ESTADISTICAS INCLUYEN ADS
@@ -25,22 +25,22 @@
 
 | CUENTA | POST | ALCANCE POST | INTERRACIONES POST |
 | --- | --- | --- | --- |
-| @daimotorsmcbo | 08/03 elantra | 7.269 | 81 |
-| @kyotomotorsmcbo | 15/03 logo | 9.763 | 47 |
-| @repuestoskiamcbo | 06/03 erwin | 33 | 5 |
+| @daimotorsmcbo | 25/06 ELANTRA | 6370 | 68 |
+| @kyotomotorsmcbo | 25/06 L200 | 7148 | 94 |
+| @repuestoskiamcbo | 07/06 TELEFONO | 47 | 5 |
 
 ### REEL
 
 | CUENTA | REEL | ALCANCE REEL | INTERRACIONES REEL |
 | --- | --- | --- | --- |
-| @daimotorsmcbo | 01/03 repuestos | 412 | 11 |
-| @kyotomotorsmcbo | 25/03 servicio | 312 | 8 |
+| @daimotorsmcbo | 17/06 TUCSON | 206 | 8 |
+| @kyotomotorsmcbo | - | - | - |
 | @repuestoskiamcbo | - | - | - |
 
 ### HISTORIA
 
 | CUENTA | HISTORIA | ALCANCE HISTORIA | INTERRACIONES HISTORIA |
 | --- | --- | --- | --- |
-| @daimotorsmcbo | 20/03 buenos dias | 56 | 5 |
-| @kyotomotorsmcbo | 26/03 repuestos | 143 | 3 |
-| @repuestoskiamcbo | 07/03 promo | 12 | 1 |
+| @daimotorsmcbo | 10/06 CUAL DE TODOS ES TU FAVORITO | 93 | 4 |
+| @kyotomotorsmcbo | 05/06 SEMANA LANCER | 118 | 4 |
+| @repuestoskiamcbo | 13/06 CONTACTAOS | 23 | 1 |
