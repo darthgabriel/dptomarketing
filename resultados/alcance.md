@@ -1,4 +1,9 @@
+# ESTADISTICA DE ADS INSTAGRAM
+
+## ALCANCE
+
 ### JUN 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C71gtCKO1nG/) | 07-06-2024 | 6.47$ | 3 | 14075 | 10019 | 102 | 23 | 12 |
@@ -8,10 +13,15 @@
 | 8 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C77LECQuA-H/) | 14-06-2024 | 6.47$ | 3 | 7344 | 5146 | 102 | 21 | 23 |
 | 7 | @yantaimotors | [POST](https://www.instagram.com/p/C8KRs0yOQ7q) | 14-06-2024 | 6.47$ | 3 | 9.731 | 6334 | 186 | 68 | 18 |
 | 6 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C8hwfQWuiey/) | 22-06-2024 | 6.47$ | 3 | 19806 | 11578 | 119 | 6 | 2 |
-| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C8h1xnZuyIm) | 23-06-2024 | 6.47$ | 3 | 0 | 0 | 0 | 0 | 0 |
+| 5 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C8h1xnZuyIm) | 23-06-2024 | 6.47$ | 3 | 12764 | 9052 | 100 | 24 | 21 |
 | 4 | @yantaimotors | [POST](https://www.instagram.com/p/C8fhQLzS_dz/) | 22-06-2024 | 6.47$ | 3 | 12050 | 8028 | 165 | 52 | 9 |
+| 3 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C8pbBMquxih/) | 28-06-2024 | 6.47$ | 3 | 10143 | 6354 | 156 | 78 | 12 |
+| 2 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C8pqAxBygvu/) | 28-06-2024 | 6.47$ | 3 | 11346 | 7167 | 382 | 94 | 50 |
+| 1 | @yantaimotors | [REEL](https://www.instagram.com/p/C8umNLFutdM/) | 28-06-2024 | 6.47$ | 3 | 10444 | 7403 | 107 | 66 | 9 |
+| | | | TOTAL | 64.7$/64.7$  |  |  |  |  |  |  |
 
 ### MAY 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | @yantaimotors | [REEL](https://www.instagram.com/p/C6uTAkWuGix/) | 10-05-2024 | 6.47$ | 3 | 14083 | 10107 | 91 | 118 | 15 |
@@ -27,9 +37,8 @@
 | 11 | @kyotomotorsmcbo | [POST](https://www.instagram.com/p/C7pH1xquX8F/) | 31-05-2024 | 6.47$ | 3 | 14487 | 11317 | 231 | 31 | 19 |
 | | | | TOTAL | 77.64$/77.64$  |  |  |  |  |  |  |
 
-
-
 ### ABR 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @yantaimotors | [POST](https://www.instagram.com/p/C6FQP0QOsaP) | 06-05-2024 | 6.66$ | 3 | 12423 | 8667 | 161 | 42 | 19 |
@@ -46,14 +55,15 @@
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C5lubIIuvVi) | 12-04-2024 | 6.66$ | 3 | 12976 | 7700 | 391 | 65 | 33 |
 |  |  |  | TOTAL | 80$/80$ |  |  |  |  |  |  |
 
-
 ### ESPECIAL WENDYKIDS
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | @yantaimotors | [REEL](https://www.instagram.com/p/C5DvpRNuIli/) | 28-03-2024 | 50$ | 4 | 75.930 | 50.824 | 2.150 | 456 | 268 |
 | | |  | TOTAL | 50$/50$ |  |  |  |  |  |  |
 
 ### MAR 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C5RJPH2uOW4/) | 05-04-2024 | 6.66$| 3 | 0 | 0 | 0 | 0 | 0 |
@@ -70,8 +80,8 @@
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C4Qu7e_uUNj/) | 08-03/2024 | 6.66 | 4 | 10951 | 7251 | 308 | 81 | 66 |
 |  |  |  | TOTAL | $80/80$ |  |  |  |  |  |  |
 
-
 ### FEB 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C30avZEuxY9/) | 01-03-2024 | 6.66$ | 4 | 11.680 | 9.857 | 70 | 22 | 15 |
@@ -89,6 +99,7 @@
 |  |  |  | TOTAL | 79.92$/80$ |  |  |  |  |  |  |
 
 ### ENE 2024
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/C22bOnfIV6d/) | 02-02-2024 | 5$ | 3 | 5.350 | 3.601 | 93 | 31 | 21 |
@@ -105,8 +116,8 @@
 | 1 | @daimotorsmcbo | [POST](https://www.instagram.com/p/C17YzZouJnA/) | 12-01-2024 | 5$ | 3 | 6.645 | 4.806 | 105 | 39 | 25 |
 |  |  |  | TOTAL | 60$/60$ |  |  |  |  |  |  |
 
-
 ### DIC 2023
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | INTERACCION | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11 | @yantaimotors | [POST](https://www.instagram.com/p/C1mhw3DuWGs/) | 05-01-2024 | 7.5$ | 3 | 14.385 | 9.801 | 373 | 82 | 70 |
@@ -124,6 +135,7 @@
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### RESULTADOS DE PROMO SEPTIEMBRE 2023 - DICIEMBRE 2023
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | P[^3] | @daimotorsmcbo | [PROMO](https://www.instagram.com/p/CyLjzkqOqdo/) | 09-10-2023 | 100$ | 62 | 404.386 | 94.008 | 231 | 169 | 41 |
@@ -132,8 +144,8 @@
 
 [^3]: ADS INTERACCION DE PROMOCION 26.687
 
-
 ### OCT 2023 - NOV 2023
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @yantaimotors | [POST](https://www.instagram.com/p/CzuV4-OOQq2/) | 17-11-2023 | 5$ | 3 | 10.375 | 6.533 | 440 | 77 | 73 |
@@ -152,6 +164,7 @@
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### SEP 2023 - OCT 2023
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | @daimotorsmcbo | [REEL](https://www.instagram.com/p/CygKtnNuhq0/) | 20-10-2023 | 5$ | 3 | 7.337 | 5.201 | 119 | 41 | 39 |
@@ -170,6 +183,7 @@
 | |  |  |  |  |  |  |  |  |  |  |
 
 ### PILOTO
+
 | # | CUENTA | CONTENIDO | FECHA | PPTO | DIAS | IMPRES | ALCANCE | V. PERFIL | LIKES | N. SEG. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0 | @daimotorsmcbo | [POST](https://www.instagram.com/p/Cxf7gVgO8tD/) | 22-09-2023 | 3$ | 3 | 3.614 | 2.845 | 51 | 28 | 8 |
